@@ -1,0 +1,33 @@
+.container{
+    text-align: center;
+}
+.log{
+    padding-top: 80px;
+}
+.logo{
+    justify-content: center;
+    width: 100px;
+    border: 2px solid;
+
+}
+.image{
+    width: 200px;
+    border: 8px solid gray;
+    padding: 50px 50px 50px 50px;
+    margin: 50px 50px 50px 50px;
+    justify-content: center;
+    margin-left: 10px;
+}
+#button{
+    justify-content: center;
+    margin-left: 300px;
+}
+body{
+    width: 300px;
+    border: 10px solid gray;
+    padding: 50px 50px 50px 50px;
+    margin: 50px 50px 50px 50px;
+    justify-content: center;
+    margin-left: 500px;
+    border-radius: 30px;
+}
